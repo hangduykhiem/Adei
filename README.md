@@ -21,6 +21,7 @@ Currently, Adei will install:
 *: Pip is installed in `~/.local/bin` for security purpose.
 
 ## What's next
+  - [ ] Node
   - [ ] Progress tracking
   - [ ] Android SDK autosetup?
   - [ ] Log clean up - silent install?
